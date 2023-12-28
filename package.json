@@ -1,0 +1,22 @@
+{
+  "name": "recommend-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "api": "^5.0.8",
+    "async": "^3.2.4",
+    "axios": "^1.4.0",
+    "discord.js": "^12.5.3",
+    "imdb-api": "^4.4.1",
+    "isomorphic-fetch": "^3.0.0",
+    "node-fetch": "^3.3.1",
+    "plex-api": "^5.3.2"
+  }
+}
